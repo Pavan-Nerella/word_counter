@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/word_counter/static/css/main.943bbd56.css",
+    "main.js": "/word_counter/static/js/main.a60e5f18.js",
+    "static/js/787.3a039655.chunk.js": "/word_counter/static/js/787.3a039655.chunk.js",
+    "static/media/logo.svg": "/word_counter/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/word_counter/index.html",
+    "main.943bbd56.css.map": "/word_counter/static/css/main.943bbd56.css.map",
+    "main.a60e5f18.js.map": "/word_counter/static/js/main.a60e5f18.js.map",
+    "787.3a039655.chunk.js.map": "/word_counter/static/js/787.3a039655.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.943bbd56.css",
+    "static/js/main.a60e5f18.js"
+  ]
+}
